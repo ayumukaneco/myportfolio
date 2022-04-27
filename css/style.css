@@ -1,0 +1,55 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    line-height: 1;
+}
+
+div.self-intro{
+    background-image: url(../images/test.JPG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 10px;
+    padding: 10px;
+    position: relative; 
+}
+
+h1{
+    padding: 0px 10px;
+    margin: 10px 0px;
+    background-color: beige;
+    display: inline-block;
+}
+div.detail{
+    padding: 0px 10px;
+    margin: 10px 0px;
+    background-color: beige;
+    display: inline-block;
+}
+ul li{
+    list-style: none;
+    text-indent: 10px;
+}
+div.langage{
+    padding: 0px 10px;
+    margin: 10px 0px;
+    background-color: beige;
+    display: inline-block;
+}
+div.hobby{
+    padding: 0px 10px;
+    margin: 10px 0px;
+    background-color: beige;
+    display: inline-block;
+}
+
+h3.contact{
+    padding: 0px 10px;
+    margin: 10px 0px;
+    background-color: beige;
+    display: inline-block;
+}
